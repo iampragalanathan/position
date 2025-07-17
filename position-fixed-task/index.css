@@ -83,7 +83,7 @@ Challenge:
 1. Position the chatbox in the bottom 
    corner of the window, 6px from bottom
    and 6px from the right. 
-*/
+*/position: absolute;
   background-color: #dda15e;
   width: 40px;
   height: 40px;
@@ -94,4 +94,5 @@ Challenge:
 
 .chatbox-img {
   width: 50%;
+  margin: auto;
 }
